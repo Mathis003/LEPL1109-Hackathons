@@ -6,3 +6,7 @@ plotly
 wordcloud
 notebook
 kaleido
+
+matrice corrélation
+graphe qui montre le max d'observation de chaque insecte en fonction du jour nuit
+idem en fonction de la saison
