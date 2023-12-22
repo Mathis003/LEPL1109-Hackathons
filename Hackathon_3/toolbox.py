@@ -113,7 +113,6 @@ def biplot_visualization(
         xaxis_range=[-1, 1],
         yaxis_range=[-1, 1],
     )
-
     return fig
 
 
