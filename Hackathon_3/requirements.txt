@@ -1,12 +1,8 @@
-numpy
-matplotlib
+numpy==1.23.5
+matplotlib==3.8.0
+pandas==2.1.1
 scikit-learn
-pandas
 plotly
 wordcloud
 notebook
 kaleido
-
-matrice corrélation
-graphe qui montre le max d'observation de chaque insecte en fonction du jour nuit
-idem en fonction de la saison
